@@ -44,8 +44,8 @@ import (
 	"github.com/CosmWasm/wasmd/x/wasm"
 	wasmkeeper "github.com/CosmWasm/wasmd/x/wasm/keeper"
 	wasmtypes "github.com/CosmWasm/wasmd/x/wasm/types"
-	"github.com/notional-labs/nursery/app"
-	"github.com/notional-labs/nursery/app/params"
+	"github.com/coolcat-network/coolcat/app"
+	"github.com/coolcat-network/coolcat/app/params"
 )
 
 // NewRootCmd creates a new root command for wasmd. It is called once in the
